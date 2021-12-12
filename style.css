@@ -211,7 +211,7 @@ footer {
   padding: 5px 0;
 }
 /* MEDIAS QUERYS */
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 450px) {
   .contenido {
     padding-top: 30px;
     margin: 0 12px;
@@ -253,7 +253,7 @@ footer {
     border-radius: 0 0 10px 10px;
   }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 380px) {
   .contenido {
     padding-top: 60px;
     width: 350px;
@@ -282,7 +282,7 @@ footer {
     bottom: -100px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 325px) {
   .contenido {
     width: 300px;
   }
